@@ -1,7 +1,7 @@
 # cppProbaZH
-##C++ próba Zh
+## C++ próba Zh
 
-#OOP C++
+# OOP C++
 
 - Operátor definiálás
 - Copy konstruktor
